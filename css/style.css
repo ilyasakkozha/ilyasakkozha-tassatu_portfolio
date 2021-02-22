@@ -62,7 +62,7 @@ header.container__inner{
     background-repeat: no-repeat;
     background-size: 100vw 12rem;
     line-height: 1.2rem;
-    background-image: url(/img/12345.png);
+    background-image: url(img/12345.png);
     /* background-image: linear-gradient(rgba(226, 226, 226, 0.7), rgba(255, 255, 255, 0.7)), url(img/); */
 }
 .top-group__left{
